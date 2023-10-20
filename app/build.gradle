@@ -36,13 +36,13 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'androidx.cardview:cardview:1.0.0'
     //Библиотека от Тинькофф для поля ввода номера телефона
-    implementation 'ru.tinkoff.decoro:decoro:1.5.1'
+    implementation 'ru.tinkoff.decoro:decoro:1.5.2'
     //Библиотека для работы с SVG
     implementation 'com.caverock:androidsvg-aar:1.4'
     //Автоматически подключенная библиотека для работы с FireBase
     implementation 'com.google.firebase:firebase-database:20.3.0'
     //Подключаем FireBase BoM
-    implementation platform('com.google.firebase:firebase-bom:31.1.1')
+    implementation platform('com.google.firebase:firebase-bom:32.4.0')
     //Подключаем FireBase Authentication library
     implementation 'com.google.firebase:firebase-auth:22.2.0'
     //Подключаем библиотеки для работы с gif
