@@ -1,6 +1,6 @@
 <h1>БасПасс</h1>
 
-<div text-aling="center"><img src="images/gif.gif" height="900px<>"></div>
+<p align="center"><img width="425" height="425" src="images/gif.gif"></p>
 
 <br>
 
