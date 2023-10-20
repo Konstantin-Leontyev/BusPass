@@ -1,6 +1,8 @@
 <h1>БасПасс</h1>
 
-<img src="images/gif.gif" height="425px">
+<div text-aling="center"><img src="images/gif.gif" height="900px<>"></div>
+
+<br>
 
 <span>Многофункциональный программно-аппаратный комплекс,
 предназначенный для автоматизации оплаты проезда
