@@ -25,7 +25,7 @@
 - звуковая сигнализация о статусе транзакции.
 
 <div>
-    <img src="images/scr1.jpg" height="425px">
+    <img src="images/scr1.jpg" height="450px">
     <img src="images/scr2.jpg" height="425px">
     <img src="images/scr3.jpg" height="425px">
     <img src="images/scr4.jpg" height="425px">
