@@ -1,0 +1,98 @@
+<resources>
+    //Имя приложения
+    <string name="app_name">BusPass</string>
+
+    //Общие переменные окон SplashScreen, MainScreen, ErrorScreen
+    //Центральная кнопка-картинка (описание)
+    <string name="main_image_button_description">QR_image_field</string>
+    //Тесктовое поле статуса состояния (описание)
+    <string name="status_info_TextView_description">App_progress_status_info</string>
+    //Прогресс бар (описание)
+    <string name="fiscal_qr_description">fiscal_QR_field</string>
+    //Горизонтальный логотип (описание)
+    <string name="horizontal_logo_description">Horizontal_logo</string>
+
+    //Окно AuthScreen
+    //Заголовок окна авторизации (описание)
+    <string name="register_TextView_description">Register_Header</string>
+    //Заголовок окна авторизации (текст)
+    <string name="register_header_text">Авторизуйтесь для начала работы:</string>
+
+    //Строки статусов
+    <string name="loading">Генерируем QR-код …</string>
+    <string name="Qr_pay">QR-код для оплаты</string>
+    <string name="fiscal_Qr">QR-код чека</string>
+    <string name="successful_payment">Оплата прошла успешно</string>
+
+    //Строки ошибок
+    <string name="firebase_connection_error">Ошибка чтения базы данных</string>
+    <string name="user_not_found">Пользователь не найден или удален</string>
+    <string name="wrong_password">Неверный пароль</string>
+    <string name="json_object_error">Ошибка обработки JSON боъекта</string>
+    <string name="connection_error">Нет интеренета</string>
+    <string name="qr_canceled">QR-код отменен</string>
+    <string name="qr_rejected">QR-код отеклонён банком</string>
+    <string name="qr_expired">QR-код просрочен</string>
+    <string name="sleep_error">Ошибка остановки потока</string>
+    <string name="svg_creation_error">Ошибка Создания SVG боъекта</string>
+
+    //Заголовок поля ввода телефонного номера окна орегистрации (описание)
+    <string name="phone_TextView_description">Phone_TextView</string>
+    //Заголовок поля ввода телефонного номера окна орегистрации (текст)
+    <string name="phone_TextView_text">Номер телефона:</string>
+    //Поле ввода телефонного номера окна орегистрации (описание)
+    <string name="phone_editTextView_field_description">Phone_editTextView_field</string>
+    //Хинт поля ввода телефонного номера окна орегистрации (текст)
+    <string name="phone_field_hint">+7</string>
+
+    //Заголовок поля адреса электронной почты окна орегистрации (описание)
+    <string name="email_TextView_description">Email_TextView</string>
+    //Заголовок поля адреса электронной почты окна орегистрации (текст)
+    <string name="email_TextView_text">Адрес электройнной почты:</string>
+    //Поле ввода адреса электронной почты окна орегистрации (описание)
+    <string name="email_editTextView_field_description">Email_editTextView_field</string>
+    //Хинт ввода адреса электронной почты окна орегистрации (текст)
+    <string name="email_field_hint">your@email.ru</string>
+
+    //Заголовок поля ввода пароля окна орегистрации (описание)
+    <string name="password_TextView_description">Password_TextView</string>
+    //Заголовок поля ввода пароля окна орегистрации (текст)
+    <string name="password_TextView_text">Пароль:</string>
+    //Поле ввода пароля окна орегистрации (описание)
+    <string name="password_editTextView_field_description">Password_editTextView_field</string>
+
+    //Кнопка авторизаций (описание)
+    <string name="authorization_button_description">Authorization_button</string>
+    //Кнопка авторизаций (текст)
+    <string name="authorization_button_text">Войти</string>
+
+    //Окно ServiceScreen
+    //Кнопка удаления конфигурации (описание)
+    <string name="config_delete_button_description">Config_delete_button</string>
+    //Кнопка удаления конфигурации (текст)
+    <string name="config_file_delete_button_text">Удалить файл конфигурации</string>
+    <string name="config_file_delete">Данные конфигурации удалены</string>
+
+    //Кнопка изменения стоимости проезда (описание)
+    <string name="set_amount_button_description">set_amount_button</string>
+    //Кнопка изменения стоимости проезда(текст)
+    <string name="set_amount_button_text">Задать стоимость проезда</string>
+    <string name="amount_set">Стоимость проезда измененна</string>
+
+    //Кнопка включения выключения фискального режима (описание)
+    <string name="fiscal_mode_button_description">Qr_information_delete</string>
+    //Кнопка включения выключения фискального режима (текст включено)
+    <string name="fiscal_mode_button_on_text">Выключить фискальный режим</string>
+    <string name="fiscal_mode_on"> Фискальный режим включён</string>
+    //Кнопка включения выключения фискального режима (текст выключено)
+    <string name="fiscal_mode_button_off_text">Включить фискальный режим</string>
+    <string name="fiscal_mode_off"> Фискальный режим выключен</string>
+    Фискальный режим включён
+
+    //Кнопка возврата в MainScreen (описание)
+    <string name="start_button_description">start_button</string>
+    //Кнопка возврата в MainScreen (описание)
+    <string name="start_button_text">Старт</string>
+
+
+</resources>
