@@ -24,7 +24,10 @@
 - GIF-скринсейвер;
 - звуковая сигнализация о статусе транзакции.
 
-<img src="https://disk.yandex.ru/i/rJUwYoWvbVtUqQ">
+<img src="images/scr1.jpg" weight="256px" height="425px">
+<img src="images/scr1.jpg" weight="256px" height="425px">
+<img src="images/scr1.jpg" weight="256px" height="425px">
+<img src="images/scr1.jpg" weight="256px" height="425px">
 
 <h2>FAQ</h2>
 
@@ -32,7 +35,7 @@
 
 - Выполниете следующие действия:
 
-  1. В меню File -> project Structure
-  2. Cлева -> SDK Location
-  3. Выберите расположение Sdk (по умолчанию C:\Users\\**YourUser**\AppData\Local\Android\Sdk)
-  4. Нажмите OK или Apply 
+1. В меню File -> project Structure
+2. Cлева -> SDK Location
+3. Выберите расположение Sdk (по умолчанию C:\Users\\**YourUser**\AppData\Local\Android\Sdk)
+4. Нажмите OK или Apply 
