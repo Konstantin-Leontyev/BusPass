@@ -1,6 +1,6 @@
 <h1>БасПасс</h1>
 
-<p align="center"><img width="425" height="425" src="images/gif.gif"></p>
+<p align="center"><img width="425" height="425" src="images/logo.png"></p>
 
 <br>
 
@@ -29,10 +29,9 @@
 - звуковая сигнализация о статусе транзакции.
 
 <div>
-    <img src="images/scr1.jpg" height="425px">
-    <img src="images/scr2.jpg" height="425px">
-    <img src="images/scr3.jpg" height="425px">
-    <img src="images/scr4.jpg" height="425px">
+    <img src="images/srs1.jpg" height="425px">
+    <img src="images/src2.jpg" height="425px">
+    <img src="images/src3.jpg" height="425px">
 </div>
 
 <h2>FAQ</h2>
