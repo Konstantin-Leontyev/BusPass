@@ -24,10 +24,12 @@
 - GIF-скринсейвер;
 - звуковая сигнализация о статусе транзакции.
 
-<img src="images/scr1.jpg" height="435px">
-<img src="images/scr2.jpg" height="435px">
-<img src="images/scr3.jpg" height="435px">
-<img src="images/scr4.jpg" height="435px">
+<div>
+    <img src="images/scr1.jpg" height="435px">
+    <img src="images/scr2.jpg" height="435px">
+    <img src="images/scr3.jpg" height="435px">
+    <img src="images/scr4.jpg" height="435px">
+</div>
 
 <h2>FAQ</h2>
 
